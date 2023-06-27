@@ -1,4 +1,4 @@
-# Google-Youtube-Search
+# google-youtube-search
 # Selenium ile Google ve YouTube Arama Otomasyonu
 
 Kod, Selenium WebDriver'ı kullanarak Google'a giriş yapar, "youtube" kelimesini arar ve ardından YouTube'a yönlendirir. Daha sonra, belirli bir arama sorgusu ile YouTube'da bir arama yapar. Son olarak, bir ekran görüntüsü alır ve tarayıcıyı kapatır.
